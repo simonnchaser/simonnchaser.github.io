@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 통계 기초와 검정"
 date: 2026-03-28 16:38:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-03, statistics]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-03, statistics]
 description: "이 개념들을 실제 코드와 시뮬레이션으로 연결해서 보는 해설은 아래 문서에 이어서 정리했다."
 math: false
 ---

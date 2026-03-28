@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 운영 프로세스 정리"
 date: 2026-03-28 16:33:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-01]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-01]
 description: "A/B 테스트는 단순히 화면 두 개를 만들어 비교하는 작업이 아니다. 실제로는 \"기획 -> 승인 -> 구현 -> 검증 -> 점진적 배포 -> 분석 -> 반복 개선\"까지 이어지는 하나의 운영 프로세스다."
 math: false
 ---

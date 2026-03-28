@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 트래픽 크기 비교와 Proportion Z-Test"
 date: 2026-03-28 16:39:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-03, statistics]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-03, statistics]
 description: "A/B 테스트에서 성공 지표를 비교하기 전에 제일 먼저 해야 하는 일은 트래픽이 양쪽에 우리가 기대한 형태로 잘 나뉘었는지 확인하는 것이다."
 math: false
 ---

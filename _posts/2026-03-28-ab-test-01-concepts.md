@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 핵심 개념 정리"
 date: 2026-03-28 16:30:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-01]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-01]
 description: "A/B 테스트의 목적, 가설의 역할, 언제 써야 하고 언제 쓰지 말아야 하는지를 한 번에 정리한 노트"
 math: false
 ---

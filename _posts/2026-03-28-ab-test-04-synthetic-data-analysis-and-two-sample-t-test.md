@@ -1,8 +1,8 @@
 ---
 title: "가상 A/B 테스트 데이터 분석과 Two-Sample t-test"
 date: 2026-03-28 16:40:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-04, statistics]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-04, statistics]
 description: "가상 A/B 테스트 데이터를 요약 테이블로 정리하고 Two-Sample t-test로 평균 차이를 해석하는 방법을 정리한 글"
 math: false
 ---

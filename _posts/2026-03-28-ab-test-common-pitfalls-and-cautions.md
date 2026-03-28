@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 문제점과 주의사항"
 date: 2026-03-28 16:42:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation]
+categories: [Data Analysis, ABTest]
+tags: [ab-test]
 description: "결과 분석과 시각화 관점은 별도 문서로도 이어서 정리했다."
 math: false
 ---

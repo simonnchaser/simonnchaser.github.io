@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트에서 `hashing parameter`란?"
 date: 2026-03-28 16:34:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-02]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-02]
 description: "A/B 테스트에서 `hashing parameter`는 \"어떤 사용자를 어떤 bucket(버킷)에 넣을지 결정할 때 기준이 되는 값\"이다."
 math: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 버킷팅 실습 해설"
 date: 2026-03-28 16:35:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-02, bucketing]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-02, bucketing]
 description: "버킷팅 실습 노트북 흐름을 따라 해시 분배와 A/A 검증 과정을 설명한 해설 노트"
 math: false
 ---

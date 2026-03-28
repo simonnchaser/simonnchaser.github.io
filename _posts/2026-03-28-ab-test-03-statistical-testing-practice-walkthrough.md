@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 통계 검정 실습 해설"
 date: 2026-03-28 16:37:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-03]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-03]
 description: "통계 검정 실습 노트북 흐름을 따라 z-test와 p-value 해석을 설명한 해설 노트"
 math: false
 ---

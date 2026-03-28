@@ -1,8 +1,8 @@
 ---
 title: "A/B 테스트 구현 방식과 시스템 구성"
 date: 2026-03-28 16:31:00 +0900
-categories: [Data Analysis, Experimentation]
-tags: [ab-test, experimentation, lesson-01, system-design]
+categories: [Data Analysis, ABTest]
+tags: [ab-test, lesson-01, system-design]
 description: "A/B 테스트를 직접 구축할지 SaaS를 쓸지, 그리고 런타임 시스템과 분석 시스템이 어떻게 나뉘는지 정리한 노트"
 math: false
 ---
