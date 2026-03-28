@@ -606,8 +606,8 @@ Two-Sample t-test는 아래 지표에 반복해서 적용할 수 있다.
 
 이 파트와 연결되는 실습 노트북은 아래 두 개다.
 
-- [A_B_Test_04강_가상_AB_테스트_데이터_실습.ipynb](/Users/junhapark/data-science-workspace/notes/ab_test/A_B_Test_04강_가상_AB_테스트_데이터_실습.ipynb)
-- [A_B_Test_04강_PySpark_가상_AB_테스트_데이터_실습.ipynb](/Users/junhapark/data-science-workspace/notes/ab_test/A_B_Test_04강_PySpark_가상_AB_테스트_데이터_실습.ipynb)
+- `A_B_Test_04강_가상_AB_테스트_데이터_실습.ipynb`
+- `A_B_Test_04강_PySpark_가상_AB_테스트_데이터_실습.ipynb`
 
 ## 26. 짧게 다시 정리
 

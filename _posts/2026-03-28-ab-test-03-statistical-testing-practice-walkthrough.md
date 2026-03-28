@@ -3,14 +3,14 @@ title: "A/B Test 03강 통계 검정 실습 해설"
 date: 2026-03-28 16:37:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-03]
-description: "이 문서는 [A_B_Test_03강_통계_검정_실습.ipynb](/Users/junhapark/data-science-workspace/notes/ab_test/A_B_Test_03강_통계_검정_실습.ipynb)의 흐름을 설명하는 해설 노트다."
+description: "A_B_Test_03강_통계_검정_실습.ipynb 흐름을 따라 z-test와 p-value 해석을 설명한 해설 노트"
 math: false
 ---
 # A/B Test 03강 통계 검정 실습 해설
 
 ## 1. 이 문서는 무엇을 설명하는가
 
-이 문서는 [A_B_Test_03강_통계_검정_실습.ipynb](/Users/junhapark/data-science-workspace/notes/ab_test/A_B_Test_03강_통계_검정_실습.ipynb)의 흐름을 설명하는 해설 노트다.
+이 문서는 `A_B_Test_03강_통계_검정_실습.ipynb` 흐름을 설명하는 해설 노트다.
 
 이 노트북은 실제 서비스 로그를 바로 분석하는 실습이 아니라,  
 `A와 B가 실제로 다르다`는 상황을 인위적으로 만든 뒤  
