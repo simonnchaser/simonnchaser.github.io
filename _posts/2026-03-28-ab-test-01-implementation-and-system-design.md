@@ -1,13 +1,11 @@
 ---
-title: "A/B Test 01강 구현방식 및 시스템구성 정리"
+title: "A/B Test 01강 구현 방식과 시스템 구성 정리"
 date: 2026-03-28 16:31:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01, system-design]
-description: "A/B 테스트를 운영하는 방법은 크게 두 가지로 볼 수 있다."
+description: "A/B 테스트를 직접 구축할지 SaaS를 쓸지, 그리고 런타임 시스템과 분석 시스템이 어떻게 나뉘는지 정리한 노트"
 math: false
 ---
-# A/B Test 01강 구현방식 및 시스템구성 정리
-
 ## 1. A/B 테스트는 어떻게 구현할 수 있는가
 
 A/B 테스트를 운영하는 방법은 크게 두 가지로 볼 수 있다.
@@ -110,9 +108,9 @@ A/B 테스트를 운영하는 방법은 크게 두 가지로 볼 수 있다.
 런타임 시스템은 실제 서비스에서 사용자를 A/B로 나누고,  
 각 사용자에게 서로 다른 variant를 보여주는 시스템이다.
 
-트래픽을 실제로 어떻게 A/B로 나누는지에 대한 별도 정리는 아래 문서에 이어서 정리했다.
+트래픽을 실제로 어떻게 A/B로 나누는지에 대한 별도 정리는 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_02강_트래픽_분배_및_버킷팅_정리.md`
+- [A/B Test 02강 트래픽 분배 및 버킷팅 정리]({% post_url 2026-03-28-ab-test-02-traffic-allocation-and-bucketing %})
 
 예를 들어:
 
@@ -264,8 +262,8 @@ A/B 테스트를 운영하는 방법은 크게 두 가지로 볼 수 있다.
 
 ## 12. Iteration을 빠르게 한다는 것은 무슨 뜻인가
 
-- algo / config update
-- algo / config deployment
+- algorithm / config update
+- algorithm / config deployment
 - experiment setup
 - data collection
 - analysis

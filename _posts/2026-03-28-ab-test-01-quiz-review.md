@@ -3,10 +3,11 @@ title: "A/B Test 01강 퀴즈 복습노트"
 date: 2026-03-28 16:32:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01, review, quiz]
-description: "문항:"
+description: "01강 퀴즈 문항을 기준으로 A/B 테스트의 핵심 개념을 짧고 선명하게 다시 복습한 노트"
 math: false
 ---
-# A/B Test 01강 퀴즈 복습노트
+
+이 글은 01강 퀴즈 문항을 따라가며 핵심 개념만 다시 짚는 복습 노트다. 본문 전체를 다시 읽기 전에 빠르게 개념을 환기할 때 보기 좋게, 정답과 이유를 짧게 정리했다.
 
 ## 1. A/B 테스트를 시작함에 있어서 가장 중요한 것은?
 
