@@ -1,7 +1,7 @@
 ---
 title: "비트마스크(Bitmask)란 무엇인가"
 date: 2026-03-17 01:10:00 +0900
-categories: [CS Basics, Bitmask]
+categories: [Data Analysis, CS Basics, Bitmask]
 tags: [bitmask, binary, bitwise, mysql, problem-solving]
 description: "문제 풀이 중 자주 만나는 비트마스크 개념과 비트 위치를 형질이나 조건으로 해석하는 방식을 정리한 글"
 math: true
