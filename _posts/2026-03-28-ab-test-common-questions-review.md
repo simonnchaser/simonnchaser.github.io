@@ -1,16 +1,16 @@
 ---
-title: "A/B Test 공통 질문 리뷰 정리"
+title: "A/B 테스트 질문 리뷰"
 date: 2026-03-28 16:44:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, review]
 description: "지난 강의의 보충 복습과 딥다이브 내용은 별도 문서로도 이어서 정리했다."
 math: false
 ---
-# A/B Test 공통 질문 리뷰 정리
+# A/B 테스트 질문 리뷰
 
-지난 강의의 보충 복습과 딥다이브 내용은 별도 문서로도 이어서 정리했다.
+보충 복습과 딥다이브 내용은 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_공통_지난강의_리뷰_딥다이브_정리.md`
+- [A/B 테스트 리뷰 딥다이브]({% post_url 2026-03-28-ab-test-common-review-deep-dive %})
 
 ## 1. 왜 이 문서를 따로 정리하는가
 

@@ -1,5 +1,5 @@
 ---
-title: "A/B Test 01강 구현 방식과 시스템 구성 정리"
+title: "A/B 테스트 구현 방식과 시스템 구성"
 date: 2026-03-28 16:31:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01, system-design]

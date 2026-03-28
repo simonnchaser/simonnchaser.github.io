@@ -1,16 +1,16 @@
 ---
-title: "A/B Test 공통 지난강의 리뷰 딥다이브 정리"
+title: "A/B 테스트 리뷰 딥다이브"
 date: 2026-03-28 16:43:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, review]
 description: "통계 검정과 귀무가설, CLT, z-test, t-test에 대한 별도 정리는 아래 문서에 이어서 정리했다."
 math: false
 ---
-# A/B Test 공통 지난강의 리뷰 딥다이브 정리
+# A/B 테스트 리뷰 딥다이브
 
-통계 검정과 귀무가설, CLT, z-test, t-test에 대한 별도 정리는 아래 문서에 이어서 정리했다.
+통계 검정과 귀무가설, CLT, z-test, t-test에 대한 별도 정리는 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_03강_통계_기초_및_검정_정리.md`
+- [A/B 테스트 통계 기초와 검정]({% post_url 2026-03-28-ab-test-03-statistics-basics-and-testing %})
 
 ## 1. 왜 이 문서를 따로 정리하는가
 

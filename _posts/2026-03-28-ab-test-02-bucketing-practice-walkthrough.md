@@ -1,16 +1,16 @@
 ---
-title: "A/B Test 02강 버킷팅 실습 해설"
+title: "A/B 테스트 버킷팅 실습 해설"
 date: 2026-03-28 16:35:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-02, bucketing]
-description: "A_B_Test_02강_버킷팅_실습.ipynb 흐름을 따라 해시 버킷팅과 A/A 검증 과정을 설명한 해설 노트"
+description: "버킷팅 실습 노트북 흐름을 따라 해시 분배와 A/A 검증 과정을 설명한 해설 노트"
 math: false
 ---
-# A/B Test 02강 버킷팅 실습 해설
+# A/B 테스트 버킷팅 실습 해설
 
 ## 1. 이 문서는 무엇을 설명하는가
 
-이 문서는 `A_B_Test_02강_버킷팅_실습.ipynb` 흐름을 설명하는 해설 노트다.
+이 문서는 [A_B_Test_02강_버킷팅_실습.ipynb](/assets/files/notebooks/ab_test/A_B_Test_02%EA%B0%95_%EB%B2%84%ED%82%B7%ED%8C%85_%EC%8B%A4%EC%8A%B5.ipynb) 흐름을 설명하는 해설 노트다.
 
 노트북은 단순히 코드를 실행하는 실습이 아니라,  
 아래 내용을 순서대로 익히도록 구성되어 있다.

@@ -1,12 +1,12 @@
 ---
-title: "A/B Test 공통 결과 분석 및 시각화 정리"
+title: "A/B 테스트 결과 분석과 시각화"
 date: 2026-03-28 16:41:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, visualization]
 description: "A/B 테스트는 구현보다 분석이 더 어렵게 느껴질 때가 많다."
 math: false
 ---
-# A/B Test 공통 결과 분석 및 시각화 정리
+# A/B 테스트 결과 분석과 시각화
 
 ## 1. 왜 이 내용을 따로 정리해야 하는가
 

@@ -1,24 +1,24 @@
 ---
-title: "A/B Test 통계 기초 및 검정 정리"
+title: "A/B 테스트 통계 기초와 검정"
 date: 2026-03-28 16:38:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-03, statistics]
 description: "이 개념들을 실제 코드와 시뮬레이션으로 연결해서 보는 해설은 아래 문서에 이어서 정리했다."
 math: false
 ---
-# A/B Test 통계 기초 및 검정 정리
+# A/B 테스트 통계 기초와 검정
 
-이 개념들을 실제 코드와 시뮬레이션으로 연결해서 보는 해설은 아래 문서에 이어서 정리했다.
+이 개념들을 실제 코드와 시뮬레이션으로 연결해서 보는 해설은 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_03강_통계_검정_실습_해설.md`
+- [A/B 테스트 통계 검정 실습 해설]({% post_url 2026-03-28-ab-test-03-statistical-testing-practice-walkthrough %})
 
-트래픽 크기 비교와 proportion z-test만 따로 다시 보는 정리는 아래 문서에 이어서 정리했다.
+트래픽 크기 비교와 proportion z-test만 따로 다시 보는 정리는 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_03강_트래픽_크기_비교_및_Proportion_Z_Test_정리.md`
+- [A/B 테스트 트래픽 크기 비교와 Proportion Z-Test]({% post_url 2026-03-28-ab-test-03-traffic-size-comparison-and-proportion-z-test %})
 
-가상 데이터 기반 A/B 분석과 Two-Sample t-test 중심 정리는 아래 문서에 이어서 정리했다.
+가상 데이터 기반 A/B 분석과 Two-Sample t-test 중심 정리는 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_04강_가상_데이터_분석_및_Two_Sample_T_Test_정리.md`
+- [가상 A/B 테스트 데이터 분석과 Two-Sample t-test]({% post_url 2026-03-28-ab-test-04-synthetic-data-analysis-and-two-sample-t-test %})
 
 ## 1. 왜 이 문서를 따로 정리해야 하는가
 

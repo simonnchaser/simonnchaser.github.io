@@ -1,5 +1,5 @@
 ---
-title: "A/B Test 01강 퀴즈 복습노트"
+title: "A/B 테스트 핵심 질문 복습"
 date: 2026-03-28 16:32:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01, review, quiz]

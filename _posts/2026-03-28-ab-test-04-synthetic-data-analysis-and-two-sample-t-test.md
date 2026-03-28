@@ -1,12 +1,12 @@
 ---
-title: "A/B Test 04강 가상 데이터 분석 및 Two-Sample T-Test 정리"
+title: "가상 A/B 테스트 데이터 분석과 Two-Sample t-test"
 date: 2026-03-28 16:40:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-04, statistics]
-description: "앞에서는:"
+description: "가상 A/B 테스트 데이터를 요약 테이블로 정리하고 Two-Sample t-test로 평균 차이를 해석하는 방법을 정리한 글"
 math: false
 ---
-# A/B Test 04강 가상 데이터 분석 및 Two-Sample T-Test 정리
+# 가상 A/B 테스트 데이터 분석과 Two-Sample t-test
 
 ## 1. 왜 이 내용을 따로 정리해야 하는가
 
@@ -606,8 +606,8 @@ Two-Sample t-test는 아래 지표에 반복해서 적용할 수 있다.
 
 이 파트와 연결되는 실습 노트북은 아래 두 개다.
 
-- `A_B_Test_04강_가상_AB_테스트_데이터_실습.ipynb`
-- `A_B_Test_04강_PySpark_가상_AB_테스트_데이터_실습.ipynb`
+- [A_B_Test_04강_가상_AB_테스트_데이터_실습.ipynb](/assets/files/notebooks/ab_test/A_B_Test_04%EA%B0%95_%EA%B0%80%EC%83%81_AB_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
+- [A_B_Test_04강_PySpark_가상_AB_테스트_데이터_실습.ipynb](/assets/files/notebooks/ab_test/A_B_Test_04%EA%B0%95_PySpark_%EA%B0%80%EC%83%81_AB_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
 
 ## 26. 짧게 다시 정리
 

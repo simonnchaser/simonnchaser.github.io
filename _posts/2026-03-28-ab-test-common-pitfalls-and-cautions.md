@@ -1,16 +1,16 @@
 ---
-title: "A/B Test 공통 문제점 및 주의사항 정리"
+title: "A/B 테스트 문제점과 주의사항"
 date: 2026-03-28 16:42:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation]
 description: "결과 분석과 시각화 관점은 별도 문서로도 이어서 정리했다."
 math: false
 ---
-# A/B Test 공통 문제점 및 주의사항 정리
+# A/B 테스트 문제점과 주의사항
 
-결과 분석과 시각화 관점은 별도 문서로도 이어서 정리했다.
+결과 분석과 시각화 관점은 아래 글에 이어서 정리했다.
 
-- `notes/ab_test/A_B_Test_공통_결과_분석_및_시각화_정리.md`
+- [A/B 테스트 결과 분석과 시각화]({% post_url 2026-03-28-ab-test-common-results-analysis-and-visualization %})
 
 ## 1. 왜 이 내용을 따로 정리해야 하는가
 

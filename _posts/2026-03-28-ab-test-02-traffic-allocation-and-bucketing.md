@@ -1,12 +1,12 @@
 ---
-title: "A/B Test 02강 트래픽 분배 및 버킷팅 정리"
+title: "A/B 테스트 트래픽 분배와 버킷팅"
 date: 2026-03-28 16:36:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-02, bucketing]
 description: "A/B 테스트 런타임 시스템의 가장 기본적인 역할은 들어오는 트래픽을 실험군 A와 B로 나누는 것이다."
 math: false
 ---
-# A/B Test 02강 트래픽 분배 및 버킷팅 정리
+# A/B 테스트 트래픽 분배와 버킷팅
 
 ## 1. 왜 트래픽을 나누는가
 

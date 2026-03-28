@@ -1,5 +1,5 @@
 ---
-title: "A/B Test 01강 프로세스 정리"
+title: "A/B 테스트 운영 프로세스 정리"
 date: 2026-03-28 16:33:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01]

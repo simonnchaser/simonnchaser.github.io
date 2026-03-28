@@ -1,5 +1,5 @@
 ---
-title: "A/B Test 01강 개념 정리"
+title: "A/B 테스트 핵심 개념 정리"
 date: 2026-03-28 16:30:00 +0900
 categories: [Data Analysis, Experimentation]
 tags: [ab-test, experimentation, lesson-01]
